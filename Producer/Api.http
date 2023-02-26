@@ -1,0 +1,8 @@
+### GET request with a header
+GET http://localhost:5275/publish/send
+Accept: application/json
+
+
+### GET request with a header
+GET http://localhost:5275/publish/sendwithtransaction
+Accept: application/json

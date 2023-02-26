@@ -1,0 +1,12 @@
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/bin/Debug/net7.0/Contracts.deps.json
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/bin/Debug/net7.0/Contracts.dll
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/bin/Debug/net7.0/Contracts.pdb
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.csproj.AssemblyReference.cache
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfoInputs.cache
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.AssemblyInfo.cs
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.csproj.CoreCompileInputs.cache
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.dll
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/refint/Contracts.dll
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/Contracts.pdb
+/Users/burak.gokoglu/Desktop/CapPublisherApp/Contracts/obj/Debug/net7.0/ref/Contracts.dll
